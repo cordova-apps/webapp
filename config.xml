@@ -41,7 +41,7 @@
 
         <content src="https://phonegap-apps.github.io/" />
         <icon src="icon.png" />
-        <splash src="splash.jpg" />
+        <splash src="splash.png" />
         
 
         <platform name="android">
